@@ -1,5 +1,5 @@
 # Resolucao-Teste-Tecnico-Desenvolvimento-BackEnd
-Este repositório contém a resolução do teste técnico de desenvolvimento back-end. Para mais informações sobre o teste, clique <a href="https://github.com/afonsodasilva1/Resolucao-Teste-Tecnico-Desenvolvimento-BackEnd.git">aqui</a>
+Este repositório contém a resolução do teste técnico de desenvolvimento back-end. Para mais informações sobre o teste, clique <a href="https://github.com/PEAL-26/backend-development-testing.git">aqui</a>
 
 ## Técnologias Utilizadas
 * [Node](https://nodejs.org/en)
@@ -20,7 +20,7 @@ Este repositório contém a resolução do teste técnico de desenvolvimento bac
 1 - Clone o repositório
 
 ```
-git clone 
+git clone https://github.com/afonsodasilva1/Resolucao-Teste-Tecnico-Desenvolvimento-BackEnd.git
 ```
 
 2 - Rode o seguinte comando para instalar todas as dependências necessárias: 
@@ -32,7 +32,7 @@ npm install
 ```
 docker compose up
 ```
-4 -  E Conecte com DBeaver ou pgAdmin 4:
+4 - Conecte com DBeaver ou pgAdmin 4:
 
 5 - Rode o seguinte comando para subir o servidor
 ```
