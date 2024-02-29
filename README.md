@@ -1,5 +1,5 @@
 # Resolucao-Teste-Tecnico-Desenvolvimento-BackEnd
-Este repositório contém a resolução do teste técnico de desenvolvimento fornt-end. Para mais informações sobre o teste, clique <a href="">aqui</a>
+Este repositório contém a resolução do teste técnico de desenvolvimento back-end. Para mais informações sobre o teste, clique <a href="https://github.com/afonsodasilva1/Resolucao-Teste-Tecnico-Desenvolvimento-BackEnd.git">aqui</a>
 
 ## Técnologias Utilizadas
 * [Node](https://nodejs.org/en)
